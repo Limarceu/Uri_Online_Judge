@@ -1,0 +1,1 @@
+print('MEDIA = {:.5f}'.format((0.35*float(input())+0.75*float(input()))/(0.35+0.75)))
